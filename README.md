@@ -2,6 +2,7 @@
 
 [Live Demo](https://onetaskmanager.netlify.app/)
 
+https://onetaskmanager.netlify.app/
 ## Getting Started
 
 To use this project locally, follow these steps:
